@@ -1,0 +1,11 @@
+#abc{
+    text-align: center;
+    background-color: yellow;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.x{
+    text-decoration: underline;
+    background: lightcoral;
+}
